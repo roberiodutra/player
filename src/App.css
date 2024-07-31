@@ -46,7 +46,6 @@ a {
   height: 498px;
   border: 1px solid var(--fgreen);
   text-align: center;
-  background: url("system-img/logo_trybe.png"), white;
   background-repeat: no-repeat;
   background-position: bottom;
 }

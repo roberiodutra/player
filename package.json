@@ -1,6 +1,6 @@
 {
-  "homepage": "https://roberio.dev/meme-timer/",
-  "name": "meme-timer",
+  "homepage": "https://roberiodutra.github.io/player",
+  "name": "player",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,15 +13,16 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-player": "^2.10.0",
-    "react-scripts": "5.0.0",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
+    "@babel/plugin-transform-private-property-in-object": "^7.24.7",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
     "@testing-library/user-event": "^13.5.0",
-    "gh-pages": "^3.2.3",
-    "lint": "^0.7.0"
+    "gh-pages": "^6.1.1",
+    "lint": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
